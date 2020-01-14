@@ -4,8 +4,9 @@ import (
 	"bytes"
 
 	"github.com/bolaxy/common"
-	"github.com/bolaxy/eth/trie"
 	"github.com/bolaxy/rlp"
+
+	"github.com/bolaxy/eth/trie"
 )
 
 type DerivableList interface {

@@ -21,6 +21,7 @@ import (
 	"testing"
 
 	"github.com/bolaxy/common"
+
 	"github.com/bolaxy/eth/core/state"
 )
 

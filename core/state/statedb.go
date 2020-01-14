@@ -23,7 +23,7 @@ import (
 	"math/big"
 	"sort"
 
-	"github.com/bolaxy/conf"
+	"github.com/bolaxy/config"
 
 	"github.com/bolaxy/common"
 	"github.com/bolaxy/crypto"

@@ -25,8 +25,9 @@ import (
 	"github.com/bolaxy/common/math"
 	"github.com/bolaxy/crypto"
 	"github.com/bolaxy/crypto/bn256"
-	"github.com/bolaxy/eth/params"
 	"golang.org/x/crypto/ripemd160"
+
+	"github.com/bolaxy/eth/params"
 )
 
 // PrecompiledContract is the basic interface for native Go contracts. The implementation

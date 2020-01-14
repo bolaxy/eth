@@ -11,9 +11,10 @@ import (
 
 	"github.com/bolaxy/common"
 	"github.com/bolaxy/common/hexutil"
+	"github.com/bolaxy/rlp"
+
 	"github.com/bolaxy/eth/rpc"
 	"github.com/bolaxy/eth/types"
-	"github.com/bolaxy/rlp"
 )
 
 var NotFound = errors.New("not found")

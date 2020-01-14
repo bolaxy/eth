@@ -23,9 +23,10 @@ import (
 
 	"github.com/bolaxy/common"
 	"github.com/bolaxy/common/math"
+	"golang.org/x/crypto/sha3"
+
 	"github.com/bolaxy/eth/params"
 	"github.com/bolaxy/eth/types"
-	"golang.org/x/crypto/sha3"
 )
 
 var (

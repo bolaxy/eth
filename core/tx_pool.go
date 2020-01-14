@@ -5,6 +5,7 @@ import (
 	"sync"
 
 	"github.com/bolaxy/common"
+
 	"github.com/bolaxy/eth/types"
 )
 

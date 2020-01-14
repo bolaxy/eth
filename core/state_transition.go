@@ -22,9 +22,10 @@ import (
 	"math/big"
 
 	"github.com/bolaxy/common"
+	log "github.com/sirupsen/logrus"
+
 	"github.com/bolaxy/eth/core/vm"
 	"github.com/bolaxy/eth/params"
-	log "github.com/sirupsen/logrus"
 )
 
 var (

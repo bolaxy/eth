@@ -19,13 +19,14 @@ package trie
 import (
 	"errors"
 	"fmt"
+	"io"
+	"sync"
+	"time"
+
 	"github.com/allegro/bigcache"
 	"github.com/bolaxy/common"
 	bolaxydb "github.com/bolaxy/core/db"
 	"github.com/bolaxy/rlp"
-	"io"
-	"sync"
-	"time"
 )
 
 /*var (
