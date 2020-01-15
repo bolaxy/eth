@@ -6,8 +6,8 @@ require (
 	github.com/allegro/bigcache v0.0.0-20190618191010-69ea0af04088
 	github.com/bolaxy/accounts v1.0.0
 	github.com/bolaxy/common v1.0.0
-	github.com/bolaxy/config v1.0.1
-	github.com/bolaxy/core v1.0.1
+	github.com/bolaxy/config v1.0.3
+	github.com/bolaxy/core v1.0.3
 	github.com/bolaxy/crypto v1.0.2
 	github.com/bolaxy/rlp v1.0.0
 	github.com/davecgh/go-spew v1.1.1
